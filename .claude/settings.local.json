@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r /d/DESKTOP/Arivechi-project/css /d/DESKTOP/Bacanora-project/)",
+      "Bash(cp -r /d/DESKTOP/Arivechi-project/js /d/DESKTOP/Bacanora-project/)",
+      "Bash(cp /d/DESKTOP/Arivechi-project/*.html /d/DESKTOP/Bacanora-project/)",
+      "Bash(cp /d/DESKTOP/Arivechi-project/README.md /d/DESKTOP/Bacanora-project/)"
+    ]
+  }
+}
